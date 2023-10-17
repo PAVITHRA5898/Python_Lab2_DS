@@ -1,4 +1,4 @@
-# SanathChandraChalla_Lab2_Python-for-DS
+# Pavithra_Lab2_Python-for-DS
 Project Summary:
 
 Project Title: Customer Tip Data Analysis and Linear Regression Modeling
